@@ -8,8 +8,7 @@ ggplot2
 plyr  
 reshape2  
 RColorBrewer  
-scales  
-grid  
+scales   
 FactoMineR  
 Hmisc  
 cowplot   
